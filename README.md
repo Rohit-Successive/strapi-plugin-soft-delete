@@ -4,11 +4,6 @@
   <p>Powerful Strapi based Soft Delete feature, never loose content again</p>
 </div>
 
----
-
-<div style="margin: 20px 0" align="center">
-  <img style="width: 100%; height: auto;" src="public/assets/preview.png" alt="UI preview" />
-</div>
 
 A plugin for [Strapi Headless CMS](https://github.com/strapi/strapi) that provides a Soft Delete feature.
 
