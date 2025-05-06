@@ -58,11 +58,11 @@
   },
   "strapi": {
     "kind": "plugin",
-    "name": "strapi-plugin-soft-delete",
+    "name": "strapi-plugin-soft-delete-contents",
     "displayName": "soft-delete",
     "description": ""
   },
-  "name": "strapi-plugin-soft-delete",
+  "name": "strapi-plugin-soft-delete-contents",
   "description": "",
   "license": "MIT",
   "author": "Successive <rohit.kumar2@successive.tech>"

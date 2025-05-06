@@ -1,1 +1,1 @@
-# strapi-plugin-soft-delete
+# strapi-plugin-soft-delete-contents
