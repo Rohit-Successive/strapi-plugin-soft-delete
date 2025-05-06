@@ -1,5 +1,5 @@
 {
-  "version": "1.0.1",
+  "version": "1.0.2",
   "keywords": [],
   "type": "commonjs",
   "exports": {
@@ -65,5 +65,12 @@
   "name": "strapi-plugin-soft-delete-contents",
   "description": "",
   "license": "MIT",
-  "author": "Successive <rohit.kumar2@successive.tech>"
+  "author": "Successive <rohit.kumar2@successive.tech>",
+  "bugs": {
+    "url": "https://github.com/Rohit-Successive/strapi-plugin-soft-delete-contents/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Rohit-Successive/strapi-plugin-soft-delete-contents"
+  }
 }
