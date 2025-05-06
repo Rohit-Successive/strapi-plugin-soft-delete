@@ -1,5 +1,5 @@
 {
-  "version": "1.0.0",
+  "version": "1.0.1",
   "keywords": [],
   "type": "commonjs",
   "exports": {
@@ -58,8 +58,8 @@
   },
   "strapi": {
     "kind": "plugin",
-    "name": "strapi-plugin-soft-delete-contents",
-    "displayName": "soft-delete",
+    "name": "soft-delete",
+    "displayName": "Soft Delete",
     "description": ""
   },
   "name": "strapi-plugin-soft-delete-contents",
