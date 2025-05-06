@@ -7,6 +7,10 @@
 
 A plugin for [Strapi Headless CMS](https://github.com/strapi/strapi) that provides a Soft Delete feature.
 
+## Credits and Acknowledgements
+
+This plugin was created by forking and enhancing the excellent [Soft Delete](https://github.com/ChristopheCVB/strapi-plugin-soft-delete) plugin by [ChristopheCVB](https://github.com/ChristopheCVB). We're grateful for his foundational work that made this plugin possible. The original plugin has been migrated to newer Strapi versions and will be enhanced with additional features while maintaining the core functionality.
+
 ## ✨ Features
 
 - 🛢 Database
