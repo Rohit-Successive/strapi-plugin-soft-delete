@@ -217,7 +217,7 @@
                 </Flex>
               )}
   
-              {!isLoading && !loadingError && (
+              {!isLoading && !loadingError && activeContentType && (
                 <ContentTypeEntries contentType={activeContentType} />
               )}
             </div>

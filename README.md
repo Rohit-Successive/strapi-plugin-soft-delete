@@ -1,6 +1,6 @@
 
 <div align="center">
-  <h1>Strapi v4 - Soft Delete plugin</h1>
+  <h1>Strapi v5 - Soft Delete plugin</h1>
   <p>Powerful Strapi based Soft Delete feature, never loose content again</p>
 </div>
 
@@ -50,7 +50,7 @@ This plugin was created by forking and enhancing the excellent [Soft Delete](htt
 
 | Strapi Version | Plugin Version |
 | -------------- | -------------- |
-| ^5             | 1.0.1          |
+| ^5             | 1.0.4          |
 | ^4             | Not Supported  |
 | ^3             | Not Supported  |
 
